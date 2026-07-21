@@ -255,13 +255,11 @@ src/main/java
 ├── entity
 ├── enums
 ├── exception
-├── mapper
 ├── repository
 ├── scheduler
 ├── security
 ├── service
 ├── service/impl
-├── util
 └── KeystoneBackendApplication.java
 ```
 
